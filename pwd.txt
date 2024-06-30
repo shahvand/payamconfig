@@ -1,0 +1,6 @@
+[pwd-config]
+Default = 
+foundappsleep = 2
+sleepuserlogin = 4
+year = 1403
+shomaregharardad = 00810.1.32
